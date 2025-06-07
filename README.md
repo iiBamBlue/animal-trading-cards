@@ -29,6 +29,10 @@ images/            # Card images and design prototype
 README.md          # Project documentation
 ```
 
+## Photo Credit
+
+Red panda image created with Microsoft Designer.
+
 ## License
 
 MIT License
